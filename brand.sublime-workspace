@@ -1,0 +1,1508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pos",
+				"pos:s	position:static"
+			],
+			[
+				"the_",
+				"the_permalink"
+			],
+			[
+				"the",
+				"the_excerpt"
+			],
+			[
+				"th",
+				"the_excerpt"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"b",
+				"bd	border"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"bkg",
+				"background-color"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"the_pos",
+				"the_post_thumbnail"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"z",
+				"z	z-index"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bdr",
+				"bdrz	border-radius"
+			],
+			[
+				"te",
+				"text-align-last"
+			],
+			[
+				"has_post",
+				"has_post_thumbnail"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"abo",
+				"about-us"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"bkg-",
+				"background-size"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"po",
+				"pos:f	position:fixed"
+			],
+			[
+				"ps",
+				"pos:f	position:fixed"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bdrs",
+				"border-radius"
+			],
+			[
+				"Skew",
+				"skew-3"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"bor",
+				"bolder"
+			],
+			[
+				"Ma",
+				"Material-Theme"
+			],
+			[
+				"fl",
+				"fl:l	float:left"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"p",
+				"php	<?php … ?>"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"mont",
+				"month"
+			],
+			[
+				"mon",
+				"month"
+			],
+			[
+				"Feb",
+				"February"
+			],
+			[
+				"Fe",
+				"February"
+			],
+			[
+				"array_fil",
+				"array_filter"
+			],
+			[
+				"array_s",
+				"array_slice"
+			],
+			[
+				"ar",
+				"array_pop"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"get_cate",
+				"get_category_link"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"get_the_auth",
+				"get_the_author_meta"
+			],
+			[
+				"get_aut",
+				"get_author_posts_url"
+			],
+			[
+				"the_t",
+				"the_time"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"get_the",
+				"get_the_title"
+			],
+			[
+				"glo",
+				"glob"
+			],
+			[
+				"get_post",
+				"get_post_ancestors"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"wp_list",
+				"wp_list_pages"
+			],
+			[
+				"post",
+				"post	Post Template"
+			],
+			[
+				"s",
+				"schemes"
+			],
+			[
+				"php",
+				"php	php"
+			],
+			[
+				"pd",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"d",
+				"d-b	display: block;"
+			],
+			[
+				"l",
+				"lis-n	list-style: none;"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ov",
+				"ovx	overflow-x: ${1:hidden};"
+			],
+			[
+				"mg",
+				"margin"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"bdbt",
+				"border-bottom"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pr",
+		"selected_items":
+		[
+			[
+				"pr",
+				"Project: Edit"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"task ",
+				"Tasks: New"
+			],
+			[
+				"ta",
+				"Tasks: New"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"tas",
+				"Tasks: Open Link"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"n",
+				"ANF: New File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"no",
+				"Notes: Inbox"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pacg",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"sett",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"rec",
+				"Package Control: Remove Channel"
+			],
+			[
+				"reco",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"u",
+				"Preferences: Settings - User"
+			],
+			[
+				"pro",
+				"Project: Edit"
+			],
+			[
+				"wo",
+				"WordPress Developer: Open Function Reference"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"v",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"",
+				"Preferences: Settings - User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"ne",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"task ne",
+				"Tasks: New"
+			],
+			[
+				"ci",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"w",
+				"WordPress Developer: Search from Input"
+			],
+			[
+				"sheme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"vi",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"view",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ve",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"settings-user",
+				"Preferences: Settings - User"
+			],
+			[
+				"Snippet",
+				"Snippet: html"
+			],
+			[
+				"pa",
+				"Snippet: case …"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"s",
+				"Snippet: html"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"c",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"p",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"b",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"f",
+				"Fetch: File"
+			],
+			[
+				"bi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"snip",
+				"Snippet: scriptSrc"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"o",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"theme",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"setti",
+				"Preferences: Settings - Default"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"x",
+				"Set Syntax: Xiki"
+			],
+			[
+				"xi",
+				"Create Xiki Buffer"
+			],
+			[
+				"AN",
+				"ANF: New File"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/e/wamp/www/Brand"
+	],
+	"file_history":
+	[
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/contact.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/music.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/content-audio.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/gallery.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/content-gallery.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/content.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/gallery-content.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/custom/my-custom.js",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/scss/custom-scss/custom.scss",
+		"/C/Users/stevjah/Desktop/index.html",
+		"/C/Users/stevjah/Desktop/Ftp anjavuckovic@escapecommunity.com.xml",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/foundation.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/custom-scss/_custom-global.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/custom-scss/_variabiles.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/functions.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/images/baruh-logo-1.png",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/images/icons/favicon.ico",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/images/icons/apple-touch-icon-precomposed.png",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/Baruh.todo",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/gulpfile.js",
+		"/E/Laravel/Homestead/homestead",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/video.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/about.php",
+		"/e/wamp/www/prva-tema/wp-content/plugins/biography_posts/biography_posts.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/content-video.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/node_modules/autoprefixer/node_modules/caniuse-db/features-json/contenteditable.json",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/header.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/parts/mobile-top-bar.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/.bower.json",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/what-input/.bower.json",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/contet-gallery.php",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/wamp/www/prva-tema/baruh_tema.sublime-project",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/.bowerrc",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/index.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/custom-scss/_about-us.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/custom-scss/custom.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/foundation.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/parts/mobile-off-canvas.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/library/navigation.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_title-bar.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/library/custom-nav.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_top-bar.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/global/_wp-overrides.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/parts/featured-image.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/modules/_topbar.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/components/_off-canvas.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/prva_thema/functions.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/library/theme-support.php",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/js/foundation.toggler.js",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/.git/logs/HEAD",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/fonts/fontawesome-webfont.woff2",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_menu.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_dropdown-menu.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_dropdown.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/motion-ui/_classes.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/js/foundation.reveal.js",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/jquery/MIT-LICENSE.txt",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/motion-ui/animations.md",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/what-input/demo.html",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/what-input/scripts.js",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/what-input/addEventListener.js",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/what-input/bower.json",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/motion-ui/_transition.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/motion-ui/handlebars.js",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/motion-ui/_fade.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/motion-ui/_animation.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/vendor/motion-ui/motion-ui.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/javascript/foundation.js",
+		"/e/wamp/www/prva-tema/wp-content/plugins/page-scroll-to-id/css/admin.css",
+		"/e/wamp/www/prva-tema/wp-content/plugins/page-scroll-to-id/malihu-pagescroll2id.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/images/Skew-1.2.png",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/templates/_front.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/typography/_base.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/global/_settings.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_visibility.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/_global.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/assets/foundation.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/util/_mixins.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/util/_color.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/settings/_settings.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/typography/_helpers.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/util/_util.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/OveNedelje.todo",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/OveNedelje.todo",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/Default (Windows).sublime-keymap",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/User/Notes.sublime-settings",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/PlainNotes/Notes.sublime-settings",
+		"/C/Users/stevjah/Dropbox/Notes/.brain/Inbox.note",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/PlainNotes/Default (Windows).sublime-keymap",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/Main.sublime-menu",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/Readme.md",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/Task-1",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/stevjah/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme-Darker.sublime-theme",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/footer.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/images/skew-3.png",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/images/Skew-1.png",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/images/Skew2.png",
+		"/e/wamp/www/prva-tema/wp-content/plugins/srizon-facebook-album/site/srizon-fb-album-front.php",
+		"/e/wamp/www/prva-tema/wp-content/plugins/srizon-facebook-album/site/srizon-fb-front.php",
+		"/e/wamp/www/prva-tema/wp-content/plugins/srizon-facebook-album/site/srizon-fb-gallery-front.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/util/_breakpoint.scss",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/scss/custom-scss/custom.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/README.md",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/README.md",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/grid/_classes.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/grid/_row.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/composer.json",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/composer.lock",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/stylesheets/foundation.css",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/grid/_gutter.scss",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/grid/_grid.scss",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/video.php",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/contact.php",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/index.php",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/music.php",
+		"/e/wamp/www/prva-tema/wp-content/plugins/index.php",
+		"/E/wamp/www/prva-tema/wp-content/themes/FoundationPress/about.php",
+		"/e/wamp/www/prva-tema/wp-content/plugins/srizon-facebook-album/srizon-fb-album.php",
+		"/e/wamp/www/prva-tema/wp-content/themes/FoundationPress/page-galerija.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Lorem",
+			"music",
+			"h2",
+			"60",
+			"0.60",
+			"0.5",
+			"1",
+			"Biographies",
+			"Dirigent",
+			"Dirigen",
+			"Biographies",
+			"desna",
+			"site-nav",
+			"Book",
+			"large-3 ",
+			"0.3",
+			"0.8)",
+			"8",
+			"0.6",
+			"8",
+			"color",
+			"0.5",
+			"0.7",
+			"0.5",
+			" 95,",
+			"5",
+			"a",
+			"Packages",
+			"☐",
+			"work",
+			"☐",
+			"h3",
+			"large",
+			"small",
+			"large",
+			"		<",
+			"colummn",
+			"		<",
+			"margin",
+			"2px",
+			"calendar",
+			"top",
+			"ready",
+			"\n]",
+			"]\n",
+			"echo",
+			" [",
+			"months",
+			"Jan",
+			"January",
+			"else if($month == 'February') {\n 	echo \"Its Feb\";\n }",
+			"+",
+			"nettus",
+			"http",
+			"net",
+			"\n$",
+			"display_error",
+			"display ",
+			"\n ",
+			"ctrl + shift +c",
+			"class",
+			"public",
+			"info",
+			"d",
+			"focus",
+			"16,17,18",
+			"38,50,56",
+			"38",
+			"38,",
+			"38,50,56",
+			"16,17,18",
+			"h5",
+			"46,44,43",
+			"tit",
+			"hr",
+			"21,33,34",
+			"sync",
+			"darkblue",
+			"olive",
+			"p",
+			" focus",
+			" |",
+			"switch",
+			"br",
+			"darkred",
+			"		<",
+			" wrapper",
+			"no-gutter",
+			"class=\"col-md-3\"",
+			"3",
+			"Pitanje",
+			"+",
+			"+ ",
+			"2",
+			"2px",
+			" 2",
+			"volume",
+			"volue",
+			"310px",
+			"slider",
+			"relative",
+			"absolute",
+			"13",
+			"padding:13",
+			"(mala)",
+			"mala",
+			"gel",
+			"_1",
+			"png",
+			"big-",
+			"gel",
+			"small",
+			"image_9: {\n                        \n                        thumb: 'gel_3(mala).jpg',\n                        // Image thumbnail file path (compulsory).\n                        \n                        enlarged: 'gel_3.jpg',\n                        // Image enlargement file path (compulsory).\n                        \n                        text: ''\n                        // Text to accompany enlarged image (optional)\n                        \n                        },\n                        ",
+			"<div data-p=\"150.00\" style=\"display: none;\">\n                <img data-u=\"image\" src=\"img/gel_1.jpg\" />\n                <img data-u=\"thumb\" src=\"img/gel_1(mala).jpg\" />\n            </div>\n           ",
+			"open",
+			"36",
+			"21,33,34",
+			"12",
+			"0",
+			"33,33,33",
+			"33",
+			"36,36,36",
+			"tab",
+			"36",
+			"36,36,36",
+			"tab",
+			"33, 33, 33",
+			"[33, 33, 33"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"z",
+			"@-webkit-keyframes myfirst{\n	0%{top:-500px;}\n	100%{top:100px;}\n}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "brand.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fun",
+				"FoundationPress\\functions.php"
+			],
+			[
+				"conte",
+				"FoundationPress\\content.php"
+			],
+			[
+				"conten",
+				"FoundationPress\\content-audio.php"
+			],
+			[
+				"ga",
+				"FoundationPress\\gallery.php"
+			],
+			[
+				"he",
+				"FoundationPress\\header.php"
+			],
+			[
+				"my",
+				"FoundationPress\\assets\\javascript\\custom\\my-custom.js"
+			],
+			[
+				"custom-",
+				"FoundationPress\\assets\\scss\\custom-scss\\_custom-global.scss"
+			],
+			[
+				"con",
+				"FoundationPress\\content.php"
+			],
+			[
+				"",
+				"FoundationPress\\assets\\scss\\custom-scss\\_about-us.scss"
+			],
+			[
+				"sing",
+				"FoundationPress\\single.php"
+			],
+			[
+				"wp-o",
+				"FoundationPress\\assets\\scss\\global\\_wp-overrides.scss"
+			],
+			[
+				"todo",
+				"FoundationPress\\Baruh.todo"
+			],
+			[
+				"about",
+				"FoundationPress\\about.php"
+			],
+			[
+				"vi",
+				"FoundationPress\\video.php"
+			],
+			[
+				"conta",
+				"FoundationPress\\contact.php"
+			],
+			[
+				"tod",
+				"FoundationPress\\Baruh.todo"
+			],
+			[
+				"vid",
+				"FoundationPress\\video.php"
+			],
+			[
+				"ab",
+				"FoundationPress\\about.php"
+			],
+			[
+				"contac",
+				"FoundationPress\\contact.php"
+			],
+			[
+				"mu",
+				"FoundationPress\\music.php"
+			],
+			[
+				"ind",
+				"FoundationPress\\index.php"
+			],
+			[
+				"inde",
+				"FoundationPress\\index.php"
+			],
+			[
+				"galer",
+				"FoundationPress\\gallery.php"
+			],
+			[
+				"top",
+				"FoundationPress\\assets\\scss\\modules\\_topbar.scss"
+			],
+			[
+				"cus",
+				"FoundationPress\\assets\\scss\\custom-scss\\custom.scss"
+			],
+			[
+				"navigation",
+				"FoundationPress\\library\\navigation.php"
+			],
+			[
+				"fu",
+				"FoundationPress\\functions.php"
+			],
+			[
+				"abou",
+				"FoundationPress\\assets\\scss\\custom-scss\\_about-us.scss"
+			],
+			[
+				"index",
+				"FoundationPress\\index.php"
+			],
+			[
+				"cu",
+				"FoundationPress\\assets\\scss\\custom-scss\\custom.scss"
+			],
+			[
+				"h",
+				"FoundationPress\\header.php"
+			],
+			[
+				"gu",
+				"FoundationPress\\gulpfile.js"
+			],
+			[
+				"gul",
+				"FoundationPress\\gulpfile.js"
+			],
+			[
+				"co",
+				"FoundationPress\\contact.php"
+			],
+			[
+				"custom",
+				"FoundationPress\\assets\\scss\\custom-scss\\custom.scss"
+			],
+			[
+				"fo",
+				"FoundationPress\\assets\\scss\\foundation.scss"
+			],
+			[
+				"_ab",
+				"FoundationPress\\assets\\scss\\custom-scss\\_about-us.scss"
+			],
+			[
+				"a",
+				"FoundationPress\\about.php"
+			],
+			[
+				"bar",
+				"FoundationPress\\Baruh.todo"
+			],
+			[
+				"topba",
+				"FoundationPress\\assets\\scss\\modules\\_topbar.scss"
+			],
+			[
+				"ov",
+				"FoundationPress\\assets\\scss\\global\\_wp-overrides.scss"
+			],
+			[
+				".to",
+				"FoundationPress\\Baruh.todo"
+			],
+			[
+				"custom-g",
+				"FoundationPress\\assets\\scss\\custom-scss\\_custom-global.scss"
+			],
+			[
+				"fou",
+				"FoundationPress\\assets\\scss\\foundation.scss"
+			],
+			[
+				"hea",
+				"FoundationPress\\header.php"
+			],
+			[
+				"m",
+				"FoundationPress\\music.php"
+			],
+			[
+				"va",
+				"FoundationPress\\assets\\scss\\custom-scss\\_variabiles.scss"
+			],
+			[
+				"wo",
+				"FoundationPress\\assets\\scss\\global\\_wp-overrides.scss"
+			],
+			[
+				"mus",
+				"FoundationPress\\music.php"
+			],
+			[
+				"abo",
+				"FoundationPress\\about.php"
+			],
+			[
+				"o",
+				"FoundationPress\\OveNedelje.todo"
+			],
+			[
+				"custom.c",
+				"FoundationPress\\assets\\scss\\custom-scss\\custom.scss"
+			],
+			[
+				"custom.scs",
+				"FoundationPress\\assets\\scss\\custom-scss\\custom.scss"
+			],
+			[
+				"wp-",
+				"FoundationPress\\assets\\scss\\global\\_wp-overrides.scss"
+			],
+			[
+				"f",
+				"FoundationPress\\footer.php"
+			],
+			[
+				"video",
+				"FoundationPress\\video.php"
+			],
+			[
+				"var",
+				"FoundationPress\\assets\\scss\\custom-scss\\_variabiles.scss"
+			],
+			[
+				"i",
+				"FoundationPress\\index.php"
+			],
+			[
+				"_g",
+				"FoundationPress\\assets\\scss\\custom-scss\\_custom-global.scss"
+			],
+			[
+				"vide",
+				"FoundationPress\\video.php"
+			],
+			[
+				"_glo",
+				"FoundationPress\\assets\\scss\\custom-scss\\_custom-global.scss"
+			],
+			[
+				"custom-ba",
+				"FoundationPress\\assets\\scss\\custom-scss\\_custom-global.scss"
+			],
+			[
+				"_custom",
+				"FoundationPress\\assets\\scss\\custom-scss\\_custom-global.scss"
+			],
+			[
+				"overridec",
+				"FoundationPress\\assets\\scss\\global\\_wp-overrides.scss"
+			],
+			[
+				"function",
+				"FoundationPress\\functions.php"
+			],
+			[
+				"sty",
+				"wp-content\\themes\\prva_thema\\style.css"
+			],
+			[
+				"page",
+				"wp-content\\themes\\prva_thema\\page.php"
+			],
+			[
+				"prva",
+				"wp-content\\themes\\prva_thema\\page.php"
+			],
+			[
+				"footer",
+				"prva-tema\\wp-content\\themes\\prva_thema\\footer.php"
+			],
+			[
+				"header",
+				"prva-tema\\wp-content\\themes\\FoundationPress\\header.php"
+			],
+			[
+				"brow",
+				"wp-content\\themes\\FoundationPress\\node_modules\\.bin\\browser-sync"
+			],
+			[
+				"custom.",
+				"wp-content\\themes\\FoundationPress\\assets\\scss\\custom-scss\\custom.scss"
+			],
+			[
+				"custom.s",
+				"wp-content\\themes\\FoundationPress\\assets\\scss\\custom-scss\\custom.scss"
+			],
+			[
+				"prvathemacss",
+				"wp-content\\themes\\prva_thema\\style.css"
+			],
+			[
+				"gruntfile.js",
+				"wp-content\\themes\\FoundationPress\\node_modules\\browser-sync\\node_modules\\socket.io\\node_modules\\socket.io-client\\node_modules\\engine.io-client\\node_modules\\engine.io-parser\\node_modules\\utf8\\Gruntfile.js"
+			],
+			[
+				"grunt",
+				"wp-content\\themes\\FoundationPress\\node_modules\\bower\\node_modules\\bower-json\\Gruntfile.js"
+			],
+			[
+				"gru",
+				"wp-content\\themes\\FoundationPress\\node_modules\\bower\\node_modules\\decompress-zip\\Gruntfile.js"
+			],
+			[
+				"grun",
+				"wp-content\\themes\\FoundationPress\\node_modules\\bower\\node_modules\\bower-json\\Gruntfile.js"
+			],
+			[
+				"foo",
+				"wp-content\\themes\\prva_thema\\footer.php"
+			],
+			[
+				"s",
+				"sass\\main.sass"
+			],
+			[
+				"cs",
+				"css\\kategorije.css"
+			],
+			[
+				"js",
+				"js\\harmonika.js"
+			],
+			[
+				"har",
+				"js\\harmonika.js"
+			],
+			[
+				"sc",
+				"css\\sc-player.css"
+			],
+			[
+				"wh",
+				"whoarewe.php"
+			],
+			[
+				"w",
+				"css\\whoweare.css"
+			],
+			[
+				"pho",
+				"photos.php"
+			],
+			[
+				"css",
+				"css\\music.css"
+			],
+			[
+				"st",
+				"css\\style.css"
+			],
+			[
+				"me",
+				"menu.php"
+			],
+			[
+				"se",
+				"css\\sendvic.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\wamp\\www\\yeoman_test\\yeoman_test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

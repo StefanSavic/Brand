@@ -24,10 +24,16 @@ body {
   padding-left: 15px;
   padding-right: 15px;
 }
+.container-fluid{
+  padding: 0!important;
+}
 
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
+  background:black;
+  padding:0!important;
+
 
   /* Make the masthead heading the same height as the navigation */
   h3 {
