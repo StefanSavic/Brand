@@ -39,5 +39,25 @@
         "single"
       ]
     }
-  }
+  },
+  "name": "brand",
+  "version": "1.0.0",
+  "main": "gulpfile.babel.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanSavic/Brand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanSavic/Brand/issues"
+  },
+  "homepage": "https://github.com/StefanSavic/Brand#readme",
+  "description": ""
 }
