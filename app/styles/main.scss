@@ -17,6 +17,7 @@ body {
   // padding-bottom: 20px;
   background:url('/images/bckg.png');
   background-repeat: repeat;
+  color:#fff;
 
 }
 
@@ -164,16 +165,34 @@ body {
 }
 .logo{
   width: 60px;
-  height: 60px;
+ 
   display: block;
   float: left;
   padding-bottom: 60px;
   margin-right:30px;
   margin-top: 10px;
-  background:url('../images/time.png')
+ 
 
 }
 
 #time{
-  background:url('../images/time.png')
+  background:url('../images/time.png');
+   height: 60px;
+}
+
+
+#work{
+  background:url('../images/work.png');
+  height: 56px;
+  background-repeat: no-repeat;
+}
+
+#smart{
+  background:url('../images/smart.png');
+  height: 69px;
+}
+
+#vision{
+  background:url('../images/vision.png');
+  height: 65px;
 }
