@@ -18,6 +18,7 @@ body {
   background:url('/images/bckg.png');
   background-repeat: repeat;
   color:#fff;
+  font-family: 'OpenSans', sans-serif;
 
 }
 
@@ -94,6 +95,19 @@ body {
 
   }
 }
+
+//lista za portfolio work//
+ul li a{
+  font-family:'OpenSans', sans-serif;
+  font-size: 1.124em;
+  color:#fff;
+  padding:0 20px;
+ &:hover{
+  color:$tamno-narandzasta;
+  text-decoration: none;
+ }
+}
+
 
 /* Custom page footer */
 .footer {
@@ -196,3 +210,9 @@ body {
   background:url('../images/vision.png');
   height: 65px;
 }
+
+//masonry settings//
+.grid-item{
+ width:30%;
+}
+
