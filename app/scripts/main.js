@@ -1,7 +1,7 @@
 console.log('\'Allo \'Allo!');
 $('.grid').masonry({
 // options
-columnWidth:'grid-sizer',
+columnWidth:'.grid-item',
 itemSelector:'.grid-item',
-columnWidth:true 
+percentPosition:true
 });

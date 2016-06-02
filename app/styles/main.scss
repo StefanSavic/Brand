@@ -212,7 +212,64 @@ ul li a{
 }
 
 //masonry settings//
+.grid-sizer,
 .grid-item{
- width:30%;
+ width:300px;
+ // height:400px;
+   background-size:cover; 
+  background-repeat: no-repeat;
 }
 
+.grid-item-height-1{
+  height:270px;
+}
+
+.grid-item-height-2{
+  height: 280px;
+}
+
+.grid-item-height-3{
+  height: 452px;
+ 
+
+}
+
+#balloon{
+  background-image: url('../images/baloon.jpg');
+  
+
+
+}
+
+#balloon2{
+  background-image: url('../images/baloon.jpg');
+  
+}
+
+#world{
+  background-image: url('../images/world.jpg');
+ 
+}
+
+#cap{
+  background-image: url('../images/cap.jpg');
+  
+}
+
+#parqcour{
+  background-image: url('../images/parqcour.jpg');
+ 
+}
+
+#fancy-screen{
+  background-image: url('../images/fancy-screen.jpg');
+ 
+}
+
+#banana{
+  background-image: url('../images/banana.jpg');
+  }
+
+#snickers{
+  background-image: url('../images/snickers.jpg');
+  }
