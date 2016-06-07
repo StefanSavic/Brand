@@ -8,7 +8,7 @@ percentPosition:true
 });
 
 $('.grid-item').on('mouseenter',function(){
-	$('.hover').css('top', '0');
+	$(this).children(2).css('top', '0');
 })
 $('.grid-item').on('mouseleave',function(){
 	$('.hover').css('top', '-100%');
