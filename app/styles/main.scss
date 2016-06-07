@@ -1,6 +1,7 @@
 
 $icon-font-path: '../fonts/';
 $tamno-narandzasta: #f49a14;
+$tamno-plava:#263248;
 // bower:scss
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 // endbower
@@ -47,7 +48,7 @@ body {
 
   .nav , {
     margin-top:18px;
-    margin-right: 200px;
+    // margin-right: 200px;
   }
   .nav ul li a {
     color:#fff;
@@ -60,7 +61,22 @@ body {
     padding-bottom: 19px;
   }
 
+  img{
+    padding-top:20px;
+  }
+
 }
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: #fff;
+    background-color: $tamno-narandzasta;
+  }
+
+.nav > li > a:hover, .nav > li > a:focus {
+    color:$tamno-narandzasta;
+    background-color:transparent;
+  }
+
 .hero-wrap{
   // margin:0 auto;
   // width:600px;
@@ -81,8 +97,9 @@ body {
   h1{
     font-family: 'Open Sans', sans-serif;
     font-size: 35px;
-    font-weight: bold;
+    font-weight: bolder;
     color:#fff;
+    
   }
   p{
     font-size: 15px;
@@ -102,6 +119,22 @@ body {
   }
 }
 
+
+
+.btn-lg, .btn-group-lg > .btn{
+  padding:10px 42px!important;
+
+}
+
+
+
+.divider{
+    margin-top: 20px;
+    background-color: $tamno-narandzasta;
+    text-align:center!important;
+
+  }
+
 //lista za portfolio work//
 ul li a{
   font-family:'OpenSans', sans-serif;
@@ -119,7 +152,7 @@ ul li a{
 .footer {
   padding-top: 19px;
   color: #777;
-  border-top: 1px solid #e5e5e5;
+  // border-top: 1px solid #e5e5e5;
 }
 
 .container-narrow > hr {
@@ -246,7 +279,6 @@ ul li a{
 //hover div
 
 .hover{
-  // visibility: hidden;
   position: absolute;
   top:-100%;
   left:0;
@@ -254,67 +286,126 @@ ul li a{
   height:100%; 
   padding:10%;
   background-color:rgba(0,0,0,0.7);
-  // margin-top: 100%;
+  outline: 3px solid $tamno-narandzasta;
+  outline-offset: -15px;
+  
        p{
-        border:3px solid $tamno-narandzasta;
-        padding:40% 5%;
+        // border:3px solid $tamno-narandzasta;
+       
        }
+}
+
+
+//input-form
+.brand-form{
+  margin-top:100px;
+}
+.btn.btn-default{
+  margin-top:30px; 
+}
+.greyish{
+  background-color: $tamno-plava;
+  color:#fff;
+
+ // &:hover{
+ //    border-radius: 3px solid $tamno-narandzasta;
+ //  }
+}
+
+.form-control:focus{
+  border: 3px solid $tamno-narandzasta;
+
+}
+
+input:hover, textarea:hover, input:active{
+  border: 3px solid $tamno-narandzasta;
 }
 
 
 
 
-// .grid-item-height-1{
-//   // height:270px;
-// }
 
-// .grid-item-height-2{
-//   height: 280px;
-// }
+ input::-webkit-input-placeholder {
+   color: #fff!important;
+}
 
-// .grid-item-height-3{
-//   height: 452px;
+input:-moz-placeholder { 
+   color: #fff!important;  
+}
 
+input::-moz-placeholder {  
+   color: #fff!important;
+ }
 
-// }
-
-// #balloon{
-//   background-image: url('../images/baloon.jpg');
-
-
-
-// }
-
-// #balloon2{
-//   background-image: url('../images/baloon.jpg');
-
-// }
-
-// #world{
-//   background-image: url('../images/world.jpg');
+input:-ms-input-placeholder {  
+   color: #fff!important;  
+}
 
 
-// }
+textarea::-webkit-input-placeholder {
+   color: #fff!important;
+}
 
-// #cap{
-//   background-image: url('../images/cap.jpg');
+textarea:-moz-placeholder { 
+   color: #fff!important;  
+}
 
-// }
+textarea::-moz-placeholder {  
+   color: #fff!important;
+ }
 
-// #parqcour{
-//   background-image: url('../images/parqcour.jpg');
+textarea:-ms-input-placeholder {  
+   color: #fff!important;  
+}
 
-// }
+.fa {
+  font-size: 5rem!important;
+  color:#ccc;
+  margin: 5px;
+}
 
-// #fancy-screen{
-//   background-image: url('../images/fancy-screen.jpg');
+.fa-facebook-official:hover{
+  color:#3b5998;
+}
 
-// }
+.fa-twitter-square:hover{
+   color:#00aced;
+}
 
-// #banana{
-//   background-image: url('../images/banana.jpg');
-//   }
+.fa-google-plus-square:hover{
+ color:#d34836;
+}
 
-// #snickers{
-//   background-image: url('../images/snickers.jpg');
-//   }
+.fa-youtube-square:hover{
+ color: #cc181e;
+}
+
+.fa-linkedin-square:hover{
+ color: #4875B4;
+}
+
+.fa-skype:hover{
+  color:  #00aff0;
+}
+
+
+
+.fa-behance-square:hover{
+  color: #005cff;
+
+}
+
+.fa-dribbble:hover{
+  color: #ea4c89;
+}
+
+.fa-whatsapp:hover{
+  color: #43d854;
+
+}
+
+.brand-follow{
+   margin-top:100px;
+   margin-bottom:100px;
+
+}
