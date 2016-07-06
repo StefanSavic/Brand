@@ -1,3 +1,5 @@
+'use strict'
+
 console.log('\'Allo \'Allo!');
 $('.grid').masonry({
 // options
@@ -9,7 +11,14 @@ percentPosition:true
 
 $('.grid-item').on('mouseenter',function(){
 	$(this).children(2).css('top', '0');
-})
+});
 $('.grid-item').on('mouseleave',function(){
 	$('.hover').css('top', '-100%');
-})
+});
+
+
+
+
+$(document).on('scroll',function(){
+    $('.text1').fadeIn(7000);
+}); 
